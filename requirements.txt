@@ -1,0 +1,11 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+langchain_community
+langchain_groq
+langchain_openai
+pypdf
+PyMuPDFLoader
+faiss-cpu
